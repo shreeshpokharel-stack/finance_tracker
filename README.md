@@ -45,12 +45,15 @@ https://finance-tracker-yl2x.onrender.com
 
 
 ### Dashboard
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/c549497f-01d8-41a6-a52f-2770eb7b9b4d" />
 
 
 ### Add Transaction
+<img width="1887" height="880" alt="image" src="https://github.com/user-attachments/assets/3c23bcfb-f918-496c-983a-2271c0a05c73" />
 
 
 ### Login Page
+<img width="1913" height="899" alt="image" src="https://github.com/user-attachments/assets/5233f66e-345d-4936-9eaa-8ee2864ab56c" />
 
 
 ---
